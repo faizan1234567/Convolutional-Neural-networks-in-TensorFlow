@@ -7,5 +7,5 @@ In the third week, no custom designed model has been experimented. InceptionV3 h
 
 In the Final week, sign language recognition dataset has been used. In this week, the model has been trained on multi-classes, in this case 26 classes. Again in this week, a custom CNN model has been designed using Keras sequentail API.
 
-#Note
+# Note
 Please use contents in this repository, if you are stuck in your programming assignments and quizes. If you don't understand anything or if you tried but you are still don't undertand certain details in this repository. don't worry! Please email me engrfaizan.ai@gmail.com
