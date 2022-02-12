@@ -1,5 +1,5 @@
 # Convolutional-Neural-networks-in-TensorFlow
-Convolutional neural networks implementation using tensorflow. This course is available on coursera, it covers images classification using convolutional neural networks using keras sequential API. In the first week, image classification is coverd without using data augmentation. The model peformance is not very good, for instance, its around 70%.
+Convolutional neural networks implementation using tensorflow. This course is available on coursera, it covers image classification using convolutional neural networks using keras sequential API. In the first week, image classification is coverd without using data augmentation. The model peformance is not very good, for instance, its around 70%.
 
 However, in the week 2, the model performance has been improved using data augmentation options such as rotations, translations, fliping, zooming, shear, and so on. In first two weeks custom designed convolutional neural network has been used, for example, 32 kernels in the first conv layer and 64 kernels in the second and final conv layer.
 
