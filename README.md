@@ -1,6 +1,6 @@
 
 
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)![Python](https://img.shields.io/badge/python-3.6-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)![Python](https://img.shields.io/badge/python-3.6-blue.svg)
 ![Repo Size](https://img.shields.io/github/repo-size/faizan1234567/Convolutional-Neural-networks-in-TensorFlow) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
